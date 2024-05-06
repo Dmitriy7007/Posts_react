@@ -1,0 +1,44 @@
+.s10 svg,
+.s10 {
+	width: 10px;
+	height: 10px;
+}
+
+.s12 svg,
+.s12 {
+	width: 12px;
+	height: 12px;
+}
+
+.s14 svg,
+.s14 {
+	width: 14px;
+	height: 14px;
+}
+
+.s16 svg,
+.s16 {
+	width: 16px;
+	height: 16px;
+}
+
+.s20 svg,
+.s20 {
+	width: 20px;
+	height: 20px;
+}
+
+.s28 svg,
+.s28 {
+	width: 28px;
+	height: 28px;
+}
+
+.s10,
+.s12,
+.s14,
+.s16,
+.s20,
+.s28 {
+	margin-right: 10px;
+}
